@@ -1,0 +1,28 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+html {
+  background-color: rgb(20, 7, 93);
+}
+body {
+  width: 800px;
+  height: 800px;
+  background-color: white;
+  margin: 30px auto;
+}
+.row {
+  width: 100%;
+  /* float: left; */
+}
+.box {
+  width: 100px;
+  height: 100px;
+  float: left;
+  text-align: center;
+  font-size: 80px;
+  color: black;
+}
+.black {
+  background-color: rgba(109, 106, 106, 0.992);
+}
